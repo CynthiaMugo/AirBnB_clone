@@ -53,7 +53,7 @@ div.number_bathrooms {
     background-image: url("../images/icon_bed.png");
 }
 .number_bathrooms {
-    background-image: url("icon_bath.png");
+    background-image: url("../images/icon_bath.png");
 }
 div.user,
 div.description {
